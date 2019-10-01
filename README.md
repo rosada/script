@@ -1,1 +1,1 @@
-### belajar membaca
+### How to create bash script on linux server

@@ -1,3 +1,3 @@
 #!/bin/bash
-V1="hello"
+V1="Hello, indonesia sedang banyak sekali demonstrasi"
 echo $V1
